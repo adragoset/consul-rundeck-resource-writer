@@ -3,10 +3,8 @@
 	"ignore": "test",
 	"package": [
 		{
-			"checksumSHA1": "byAKfVXPyAUJEHfQbMqrK5aJ8+M=",
 			"path": "github.com/hashicorp/consul/api",
-			"revision": "07b91d9d20b62969e23181e7ae135935c88dab43",
-			"revisionTime": "2017-01-19T20:28:30Z"
+			"revision": "9a494b5fb9c86180a5702e29c485df1507a47198"
 		},
 		{
 			"checksumSHA1": "Uzyon2091lmwacNsl1hCytjhHtg=",
