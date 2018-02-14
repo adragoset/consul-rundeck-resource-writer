@@ -1,4 +1,4 @@
-FROM golang:1.7
+FROM golang:1.9
 MAINTAINER Christian Winther <cw@bownty.com>
 
 ADD . /go/src/github.com/jippi/consul-rundeck-resource-writer

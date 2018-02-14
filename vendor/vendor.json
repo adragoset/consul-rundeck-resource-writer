@@ -3,31 +3,35 @@
 	"ignore": "test",
 	"package": [
 		{
+			"checksumSHA1": "YeDCbftCW+N7SZ0OYMyjRGE8gMY=",
+			"path": "github.com/armon/go-metrics",
+			"revision": "7aa49fde808223f8dadfdbfd3a20ff6c19e5f9ec",
+			"revisionTime": "2017-11-17T18:41:20Z"
+		},
+		{
+			"checksumSHA1": "hULedNPSLEWxXgpWG1XtJpo6fTA=",
 			"path": "github.com/hashicorp/consul/api",
-			"revision": "9a494b5fb9c86180a5702e29c485df1507a47198"
+			"revision": "264b4c0e047d4e61d81a606b1b347d04dcc6defd",
+			"revisionTime": "2018-02-14T19:06:25Z"
 		},
 		{
-			"checksumSHA1": "Uzyon2091lmwacNsl1hCytjhHtg=",
+			"checksumSHA1": "YjdpDMKisJYSzBacXs7OakIm/Yg=",
 			"path": "github.com/hashicorp/go-cleanhttp",
-			"revision": "ad28ea4487f05916463e2423a55166280e8254b5",
-			"revisionTime": "2016-04-07T17:41:26Z"
+			"revision": "d5fe4b57a186c716b0e00b8c301cbd9b4182694d",
+			"revisionTime": "2017-12-18T14:54:08Z"
 		},
 		{
-			"checksumSHA1": "E3Xcanc9ouQwL+CZGOUyA/+giLg=",
+			"checksumSHA1": "VekPhuqRHPZvUETrS5XFzPLQjJs=",
 			"path": "github.com/hashicorp/serf/coordinate",
-			"revision": "d3a67ab21bc8a4643fa53a3633f2d951dd50c6ca",
-			"revisionTime": "2016-12-07T01:17:43Z"
+			"revision": "d4f33d5b6a0b7b252b122dc80d559e9e5280d2d4",
+			"revisionTime": "2018-02-13T01:38:05Z"
 		},
 		{
-			"checksumSHA1": "12GqsW8PiRPnezDDy0v4brZrndM=",
+			"checksumSHA1": "4OooZWILCvVDJXFO2CuO9GPUj9U=",
 			"path": "gopkg.in/yaml.v2",
-			"revision": "a5b47d31c556af34a302ce5d659e6fea44d90de0",
-			"revisionTime": "2016-09-28T15:37:09Z"
-		},
-		{
-			"path": "https://gopkg.in/yaml.v2",
-			"revision": ""
+			"revision": "d670f9405373e636a5a2765eea47fac0c9bc91a4",
+			"revisionTime": "2018-01-09T11:43:31Z"
 		}
 	],
-	"rootPath": "github.com/adragoset/consul-rundeck-resource-writer"
+	"rootPath": "consul-rundeck-resource-writer"
 }
