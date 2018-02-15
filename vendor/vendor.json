@@ -33,5 +33,5 @@
 			"revisionTime": "2018-01-09T11:43:31Z"
 		}
 	],
-	"rootPath": "consul-rundeck-resource-writer"
+	"rootPath": "github.com/adragoset/consul-rundeck-resource-writer"
 }

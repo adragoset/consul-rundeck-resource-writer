@@ -11,6 +11,8 @@ CONFIG_FILE=/etc/rundeck/consul-node-resources.yaml consul-rundeck-resource-writ
 ```
 
 `CONSUL_HTTP_ADDR` is optional and defaults to `127.0.0.1:8500`
+Additional consul api settings available through environment variables.
+
 `CONFIG_FILE` is optiona and defaults to `resources.yaml` in `$PWD`.
 
 ## 2) rundeck (debian)
